@@ -1,0 +1,6 @@
+- Debian Developer (mostly sway ecosystem, python and usbguard)
+- Privacy, Security, Data Science
+- Other places:
+  - https://codeberg.org/birger
+  - https://salsa.debian.org/birger
+  - https://gitlab.com/b1rger
