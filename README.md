@@ -7,4 +7,5 @@
   - https://gitlab.com/b1rger
 
 
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1rger&layout=compact" alt="Most used languages by b1rger" /></p>-->
+![Github stats](https://github-readme-stats.vercel.app/api?username=b1rger&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1rger&layout=compact)
